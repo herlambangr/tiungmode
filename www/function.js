@@ -1,2 +1,2 @@
 var versi     = 1; 
-$.getScript("http://hijab88.com/function.js", function(){ });
+$.getScript("http://tiung.id/function.js", function(){ });
