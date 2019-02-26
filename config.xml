@@ -67,4 +67,5 @@
 <config-file platform="android" parent="/manifest/application" mode="merge">
     <activity android:launchMode="singleTop" />
 </config-file>
+<engine name="android" spec="^7.1.4" />
 </widget>
