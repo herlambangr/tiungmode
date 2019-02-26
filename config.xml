@@ -28,7 +28,7 @@
 <plugin name="cordova-plugin-dialogs" spec="2.0.1" />
 <plugin name="cordova-plugin-x-socialsharing" spec="5.4.4">
 <plugin name="cordova-plugin-gallery-refresh" spec="1.0.55" />
-<plugin name="cordova-plugin-geolocation" spec="4.0.1" />
+<plugin name="cordova-plugin-geolocation" spec="2.2.0" />
 <plugin name="cordova-plugin-clipboard" spec="1.0.0" />
 <plugin name="phonegap-plugin-push" spec="2.2.3">
 <platform  name="ios">
