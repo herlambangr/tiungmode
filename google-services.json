@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "7925864481",
+    "firebase_url": "https://tiung-213304.firebaseio.com",
+    "project_id": "tiung-213304",
+    "storage_bucket": "tiung-213304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7925864481:android:62ce41a68a077228",
+        "android_client_info": {
+          "package_name": "com.moc.tiungmode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7925864481-fo9udglqga5097fdq00m2cf18vqhu0qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoQq4u7bG3Flug8woFjVljqJyDByY5W80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
