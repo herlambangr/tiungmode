@@ -73,4 +73,7 @@
 <config-file platform="android" parent="/manifest/application" mode="merge">
     <activity android:launchMode="singleTop" />
 </config-file>
+<platform name="android">
+    <resource-file src="google-services.json" target="google-services.json" />
+</platform>
 </widget>
